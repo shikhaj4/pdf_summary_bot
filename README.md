@@ -36,7 +36,7 @@ streamlit run app_basic_qa.py
 streamlit run app_summary_qa.py
 ````
 
-> Make sure your local Ollama server is running and the `phi` or other model is available.
+> Make sure local Ollama server is running and the `phi` or other model is available.
 
 ---
 
@@ -50,7 +50,8 @@ streamlit run app_summary_qa.py
 * `langchain-huggingface`
 * `sentence-transformers`
 
-Installation Instructions
+Installation Instructions::
+
 1️⃣ Install Dependencies
 pip install -r requirements.txt
 
@@ -68,7 +69,7 @@ streamlit run app_basic_qa.py
 Option 2 — PDF Summary + Q&A App
 streamlit run app_summary_qa.py
 
-Streamlit will open automatically in your browser.
+Streamlit will open automatically in browser.
 
 ## 🧩 Tips
 
